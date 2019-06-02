@@ -20,7 +20,7 @@ void tex_quotes(){
  * "To be or not to be," quoth the Bard, "that is a question"
  * ``To be or not to be,'' quoth the Bard, ``that is a question''
  */
-int main(){
-	tex_quotes();
-	return 0;
-}
+//int main(){
+//	tex_quotes();
+//	return 0;
+//}
