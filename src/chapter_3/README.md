@@ -17,3 +17,5 @@
 **wertyu 错位输入 UVa10082**
 
 **Palindromes 回文词 UVa401**
+
+**master_mind_hints 猜词统计 UVa340**
