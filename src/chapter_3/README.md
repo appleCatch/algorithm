@@ -19,3 +19,5 @@
 **Palindromes 回文词 UVa401**
 
 **master_mind_hints 猜词统计 UVa340**
+
+**digit_generator 生成元问题 UVa1583**
