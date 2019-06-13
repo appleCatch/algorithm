@@ -21,3 +21,9 @@
 **master_mind_hints 猜词统计 UVa340**
 
 **digit_generator 生成元问题 UVa1583**
+
+**circular_sequence 环状序列 UVa1584**
+
+**score 得分 UVa1585**
+
+**Molar Mass 分子量 UVa1586**
