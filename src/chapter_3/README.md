@@ -27,3 +27,7 @@
 **score 得分 UVa1585**
 
 **Molar Mass 分子量 UVa1586**
+
+**digitCounting 数数 UVa1225**
+
+**Periodic Strings 最小周期串 UVa455**
