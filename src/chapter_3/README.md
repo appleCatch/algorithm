@@ -31,3 +31,5 @@
 **digitCounting 数数 UVa1225**
 
 **Periodic Strings 最小周期串 UVa455**
+
+**Puzzle 网格移动 UVa227**
