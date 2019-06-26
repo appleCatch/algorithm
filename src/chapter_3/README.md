@@ -33,3 +33,5 @@
 **Periodic Strings 最小周期串 UVa455**
 
 **Puzzle 网格移动 UVa227**
+
+**Crossword Answers 找单词 UVa232**
