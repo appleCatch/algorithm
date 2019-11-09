@@ -23,3 +23,6 @@ Release/
 .cproject
 .git/
 .settings/
+bin/
+obj/
+algorithm*

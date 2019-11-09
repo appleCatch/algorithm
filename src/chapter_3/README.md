@@ -35,3 +35,7 @@
 **Puzzle 网格移动 UVa227**
 
 **Crossword Answers 找单词 UVa232**
+
+**DNA Consensus String DNA序列 UVa1368**
+
+**Repeating Decimals 循环小数 UVa202**
