@@ -20,7 +20,6 @@ argfile*
 dubbo-consumer/
 Debug/
 Release/
-.cproject
 .git/
 .settings/
 bin/
