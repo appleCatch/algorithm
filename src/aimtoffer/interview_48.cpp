@@ -38,11 +38,11 @@ public:
 	~ SealedClass2(){}
 };
 
-int main(){
-	SealedClass2 class2;
-	SealedClass1* class1 = SealedClass1::newInstance();
-	return 0;
-}
+//int main(){
+//	SealedClass2 class2;
+//	SealedClass1* class1 = SealedClass1::newInstance();
+//	return 0;
+//}
 
 
 
