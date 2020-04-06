@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Byte/projects/fanzejun/algorithm/src/aimtoffer/interview_26.cpp
+iostream
+-
+
+/Users/Byte/projects/fanzejun/algorithm/src/aimtoffer/interview_28.cpp
+iostream
+-
+
